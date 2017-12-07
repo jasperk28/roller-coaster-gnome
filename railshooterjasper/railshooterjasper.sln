@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D93D5DD3-EB2F-A505-2E17-9C82B29DB574}") = "railshooterjasper", "Assembly-CSharp.csproj", "{CBE64BA1-C848-A219-05EF-CD1DE36AEE52}"
+EndProject
+Project("{D93D5DD3-EB2F-A505-2E17-9C82B29DB574}") = "railshooterjasper", "Assembly-CSharp-Editor.csproj", "{20F41032-076C-D944-400C-A9B0A62A9A94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBE64BA1-C848-A219-05EF-CD1DE36AEE52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE64BA1-C848-A219-05EF-CD1DE36AEE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE64BA1-C848-A219-05EF-CD1DE36AEE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE64BA1-C848-A219-05EF-CD1DE36AEE52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20F41032-076C-D944-400C-A9B0A62A9A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F41032-076C-D944-400C-A9B0A62A9A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F41032-076C-D944-400C-A9B0A62A9A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F41032-076C-D944-400C-A9B0A62A9A94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
