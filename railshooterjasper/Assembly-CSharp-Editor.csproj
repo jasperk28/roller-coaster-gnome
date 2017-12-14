@@ -46,11 +46,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\OVR\Editor\OVRBuild.cs" />
-     <Compile Include="Assets\OVR\Moonlight\Editor\OVRMoonlightLoader.cs" />
-     <None Include="Assets\OVR\Moonlight\Shaders\OVRColorRampAlpha.shader" />
-     <None Include="Assets\OVR\Moonlight\Shaders\Unlit Crosshair.shader" />
-     <None Include="Assets\OVR\Moonlight\Resources\Unlit Transparent Color.shader" />
+     <Compile Include="Assets\Models\OVR\Editor\OVRBuild.cs" />
+     <Compile Include="Assets\Models\OVR\Moonlight\Editor\OVRMoonlightLoader.cs" />
+     <None Include="Assets\Models\OVR\Moonlight\Shaders\OVRColorRampAlpha.shader" />
+     <None Include="Assets\Models\OVR\Moonlight\Shaders\Unlit Crosshair.shader" />
+     <None Include="Assets\Models\OVR\Moonlight\Resources\Unlit Transparent Color.shader" />
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>

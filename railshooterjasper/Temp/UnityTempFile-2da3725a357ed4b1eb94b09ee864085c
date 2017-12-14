@@ -91,8 +91,8 @@
 -define:UNITY_EDITOR_64
 -define:UNITY_EDITOR_OSX
 -define:UNITY_TEAM_LICENSE
-'Assets/OVR/Editor/OVRBuild.cs'
-'Assets/OVR/Moonlight/Editor/OVRMoonlightLoader.cs'
+'Assets/Models/OVR/Editor/OVRBuild.cs'
+'Assets/Models/OVR/Moonlight/Editor/OVRMoonlightLoader.cs'
 -r:'/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/2.0-api/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/2.0-api/System.Xml.Linq.dll'
 -r:'/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/2.0-api/UnityScript.dll'
